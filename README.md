@@ -1,6 +1,6 @@
 ## Desafios: Exercícios
 
-#### Projeto : carrinho-compras
+#### Projeto : ingresso
 
 #### Data : 24/09/2024
 
